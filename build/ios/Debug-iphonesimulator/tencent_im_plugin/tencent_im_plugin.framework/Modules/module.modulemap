@@ -1,0 +1,11 @@
+framework module tencent_im_plugin {
+  umbrella header "tencent_im_plugin-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module tencent_im_plugin.Swift {
+    header "tencent_im_plugin-Swift.h"
+    requires objc
+}

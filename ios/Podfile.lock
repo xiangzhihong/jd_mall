@@ -1,0 +1,105 @@
+PODS:
+  - city_pickers (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - flutter_webview_plugin (0.0.1):
+    - Flutter
+  - fluttertoast (0.0.2):
+    - Flutter
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - HandyJSON (5.0.2)
+  - path_provider_linux (0.0.1):
+    - Flutter
+  - path_provider_windows (0.0.1):
+    - Flutter
+  - shared_preferences (0.0.1):
+    - Flutter
+  - shared_preferences_linux (0.0.1):
+    - Flutter
+  - shared_preferences_macos (0.0.1):
+    - Flutter
+  - shared_preferences_web (0.0.1):
+    - Flutter
+  - shared_preferences_windows (0.0.1):
+    - Flutter
+  - sqflite (0.0.1):
+    - Flutter
+    - FMDB (~> 2.7.2)
+  - tencent_im_plugin (0.0.1):
+    - Flutter
+    - HandyJSON
+    - TXIMSDK_iOS (= 4.6.58)
+  - TXIMSDK_iOS (4.6.58)
+
+DEPENDENCIES:
+  - city_pickers (from `.symlinks/plugins/city_pickers/ios`)
+  - Flutter (from `Flutter`)
+  - flutter_webview_plugin (from `.symlinks/plugins/flutter_webview_plugin/ios`)
+  - fluttertoast (from `.symlinks/plugins/fluttertoast/ios`)
+  - path_provider_linux (from `.symlinks/plugins/path_provider_linux/ios`)
+  - path_provider_windows (from `.symlinks/plugins/path_provider_windows/ios`)
+  - shared_preferences (from `.symlinks/plugins/shared_preferences/ios`)
+  - shared_preferences_linux (from `.symlinks/plugins/shared_preferences_linux/ios`)
+  - shared_preferences_macos (from `.symlinks/plugins/shared_preferences_macos/ios`)
+  - shared_preferences_web (from `.symlinks/plugins/shared_preferences_web/ios`)
+  - shared_preferences_windows (from `.symlinks/plugins/shared_preferences_windows/ios`)
+  - sqflite (from `.symlinks/plugins/sqflite/ios`)
+  - tencent_im_plugin (from `.symlinks/plugins/tencent_im_plugin/ios`)
+
+SPEC REPOS:
+  trunk:
+    - FMDB
+    - HandyJSON
+    - TXIMSDK_iOS
+
+EXTERNAL SOURCES:
+  city_pickers:
+    :path: ".symlinks/plugins/city_pickers/ios"
+  Flutter:
+    :path: Flutter
+  flutter_webview_plugin:
+    :path: ".symlinks/plugins/flutter_webview_plugin/ios"
+  fluttertoast:
+    :path: ".symlinks/plugins/fluttertoast/ios"
+  path_provider_linux:
+    :path: ".symlinks/plugins/path_provider_linux/ios"
+  path_provider_windows:
+    :path: ".symlinks/plugins/path_provider_windows/ios"
+  shared_preferences:
+    :path: ".symlinks/plugins/shared_preferences/ios"
+  shared_preferences_linux:
+    :path: ".symlinks/plugins/shared_preferences_linux/ios"
+  shared_preferences_macos:
+    :path: ".symlinks/plugins/shared_preferences_macos/ios"
+  shared_preferences_web:
+    :path: ".symlinks/plugins/shared_preferences_web/ios"
+  shared_preferences_windows:
+    :path: ".symlinks/plugins/shared_preferences_windows/ios"
+  sqflite:
+    :path: ".symlinks/plugins/sqflite/ios"
+  tencent_im_plugin:
+    :path: ".symlinks/plugins/tencent_im_plugin/ios"
+
+SPEC CHECKSUMS:
+  city_pickers: b0370f4c35c201723b5b7fcce10ec29b59d5bc35
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  flutter_webview_plugin: ed9e8a6a96baf0c867e90e1bce2673913eeac694
+  fluttertoast: b644586ef3b16f67fae9a1f8754cef6b2d6b634b
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  HandyJSON: 9e4e236f5d2dbefad5155a77417bbea438201c03
+  path_provider_linux: 4d630dc393e1f20364f3e3b4a2ff41d9674a84e4
+  path_provider_windows: a2b81600c677ac1959367280991971cb9a1edb3b
+  shared_preferences: af6bfa751691cdc24be3045c43ec037377ada40d
+  shared_preferences_linux: afefbfe8d921e207f01ede8b60373d9e3b566b78
+  shared_preferences_macos: f3f29b71ccbb56bf40c9dd6396c9acf15e214087
+  shared_preferences_web: 141cce0c3ed1a1c5bf2a0e44f52d31eeb66e5ea9
+  shared_preferences_windows: 36b76d6f54e76ead957e60b49e2f124b4cd3e6ae
+  sqflite: 4001a31ff81d210346b500c55b17f4d6c7589dd0
+  tencent_im_plugin: a055ed155fd2cae7f006e756dbec96255b4aa0a3
+  TXIMSDK_iOS: d4231ccd8a045f54ca04d008dba46fdbf25687fb
+
+PODFILE CHECKSUM: 1b66dae606f75376c5f2135a8290850eeb09ae83
+
+COCOAPODS: 1.10.0
