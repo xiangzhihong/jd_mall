@@ -1,16 +1,24 @@
 # jd_mall
 
-JingDong App
+Flutter仿JingDong App
 
-## Getting Started
+# 部分运行果
+![ABC](https://github.com/xiangzhihong/jd_mall/tree/main/pre/jd_pre.png) 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+# 用到的库
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+flutter_swiper: ^1.1.6
+  flutter_screenutil: ^2.1.0
+  dio: ^3.0.9
+  shared_preferences: ^0.5.3+1
+  flutter_webview_plugin: ^0.3.0
+  event_bus: ^1.1.0
+  provider: ^3.0.0+1
+  fluttertoast: ^3.1.0
+  sqflite: ^1.1.5
+  city_pickers: ^0.2.0
+  common_utils: ^1.2.1
+  flutter_easyrefresh: ^2.1.6
+  transparent_image: ^1.0.0
+  tencent_im_plugin: ^0.2.33
